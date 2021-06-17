@@ -10,7 +10,7 @@ int main(void)
 {
 		int Char_Size = 1;
 		int Int_Size = 4;
-		int Long_Size = 4;
+		int Long_Size = 8;
 		int LongLong_Size = 8;
 		int Float_Size = 4;
 

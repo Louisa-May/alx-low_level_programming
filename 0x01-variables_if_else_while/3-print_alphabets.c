@@ -14,10 +14,10 @@ while (a <= 'z')
 putchar(a);
 
 a++;
-}
-										a = 'A';
-										while (a <= 'Z')
-{			
+
+a = 'A';									while (a <= 'Z')
+
+{
 putchar(a);
 
 a++;

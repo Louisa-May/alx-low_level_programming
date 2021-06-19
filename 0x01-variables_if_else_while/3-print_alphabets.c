@@ -13,7 +13,6 @@ while (a <= 'z')
 {
 putchar(a);
 										a++;										}
-
 a = 'A';
 while (a <= 'Z')
 {			

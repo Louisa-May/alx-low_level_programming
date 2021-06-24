@@ -86,6 +86,7 @@ j--;
 }
 }
 }
+}
 /**
  * print_number - prints out any integer with only _putchar
  * @n: integer to be printed
